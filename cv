@@ -1,0 +1,53 @@
+<!DOCTYPE html><html>
+    <head>
+        <meta charset="utf-8">
+        <title>CV Pablo García Pacheco</title>
+    </head>
+
+    <body>
+        <header>
+            <h1 id="nombre">Pablo García Pacheco</h1>
+            <p id="fecha_nacimiento">9 de mayo de 2001</p>
+        </header>
+
+        <section id="estudios" style="background-color: aliceblue;">
+            <h1>Formación Académica</h1>
+            <ul>
+                <li>Bachillerato Tecnológico: Colegio Asunción (2017 - 2019)</li>
+                <li>Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación en la UPM (2019 - Actual)</li>
+            </ul>
+        </section>
+
+        <section id="laboral">
+            <h1>Experiencia Laboral</h1>
+            <ul>
+                <li>Profesor particular de física y matemáticas</li>
+                <li>Juez de obstáculos en compenticiones de hípica</li>
+            </ul>
+        </section>
+
+        <section id="otros">
+            <h1>Otros</h1>
+            <ul>
+                <li> <a href="mailto:pablo.gpacheco@alumnos.upm.es">Contacto</a></li>
+                <li>Idiomas:</li>
+                <ul>
+                    <li>Inglés (B2)</li>
+                    <li>Francés (A2)</li>
+                </ul>
+                <li>Aficiones:</li>
+                <ul>
+                    <li>Hípica</li>
+                    <li>Tiro neumático</li>
+                    <li>Música</li>
+                </ul>
+            </ul>
+
+        </section>
+
+        <footer>
+            <p>Actualizado el 13/02/2022 a las 18:06</p>
+        </footer>
+
+    </body>
+</html>
