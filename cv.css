@@ -1,0 +1,25 @@
+html
+
+body{
+    background-color:bisque;
+}
+
+#estudios {
+    border-style: groove;
+}
+
+#laboral {
+    border-style: groove;
+}
+
+#otros {
+    border-style: groove;
+}
+
+section{
+    border-style: groove;
+}
+
+footer {
+    bottom: auto;
+}
